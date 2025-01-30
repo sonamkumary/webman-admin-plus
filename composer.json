@@ -1,5 +1,5 @@
 {
-  "name": "webman-prod/webman-admin-plus",
+  "name": "webman-prod/admin",
   "type": "project",
   "license": "MIT",
   "description": "Webman Admin",
@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Webman-prod\\Webman-admin-plus\\": "src"
+      "Webman-prod\\admin\\": "src"
     }
   }
 }
