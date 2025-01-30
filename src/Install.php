@@ -1,5 +1,5 @@
 <?php
-namespace Webman\Admin;
+namespace WebmanProd\Admin;
 
 class Install
 {

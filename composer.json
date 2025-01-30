@@ -17,7 +17,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Webman-prod\\admin\\": "src"
+      "WebmanProd\\Admin\\": "src"
     }
   }
 }
